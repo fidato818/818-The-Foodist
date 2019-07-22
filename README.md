@@ -1,4 +1,4 @@
-# 818_The_Foodist_UI
+# 818 The Foodist 
 
 > Food Delivery App (React - Final Project)
 
